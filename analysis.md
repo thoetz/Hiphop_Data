@@ -1,4 +1,4 @@
-  ```markdown
+
 ## Top 10 Most Popular Hip-hop Artists
 
 Here are the hip-hop artists with the highest average popularity scores across all their tracks, making them the top 10 most popular based on this dataset:
